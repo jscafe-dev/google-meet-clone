@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "classnames": "^2.3.2",
+    "lodash": "^4.17.21",
     "next": "13.5.6",
     "peerjs": "^1.5.1",
     "react": "^18",
